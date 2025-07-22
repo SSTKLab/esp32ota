@@ -1,0 +1,94 @@
+{
+  "prambanan": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/prambanan.bin"
+  },
+  "pacitan": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/pacitan.bin"
+  },
+  "bali": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/bali.bin"
+  },
+  "padang": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/padang.bin"
+  },
+  "tulungagung": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/tulungagung.bin"
+  },
+  "kebumen": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/kebumen.bin"
+  },
+  "bantul": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/bantul.bin"
+  },
+  "maguwo": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/maguwo.bin"
+  },
+  "serang": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/serang.bin"
+  },
+  "banda_aceh": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/banda_aceh.bin"
+  },
+  "kupang": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/kupang.bin"
+  },
+  "eksperimen": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/eksperimen.bin"
+  },
+  "palu": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/palu.bin"
+  },
+  "manado2": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/manado2.bin"
+  },
+  "testing": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/testing.bin"
+  },
+  "jayapura": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/jayapura.bin"
+  },
+  "manokwari": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/manokwari.bin"
+  },
+  "timika": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/timika.bin"
+  },
+  "bengkulu": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/bengkulu.bin"
+  },
+  "sibolga": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/sibolga.bin"
+  },
+  "mataram": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/mataram.bin"
+  },
+  "manado": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/manado.bin"
+  },
+  "bandung": {
+    "latest": "v2025.07.22.21.34",
+    "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/bandung.bin"
+  }
+}
