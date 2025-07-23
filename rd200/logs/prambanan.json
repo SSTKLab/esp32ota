@@ -1,6 +1,6 @@
 {
-  "device_id": "RD200-Prambanan",
-  "firmware_version": "v2025.07.23.08.00",
-  "status": "success",
-  "timestamp": "2025-07-23T08:01:00"
+  "device_id": "RD200-prambanan",
+  "firmware_version": "v2025.07.22.22.21",
+  "status": "pending",
+  "timestamp": "2025-07-23T11:43:34.456306"
 }
