@@ -52,7 +52,7 @@
     "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/palu.bin"
   },
   "manado2": {
-    "latest": "v2025.07.22.21.34",
+    "latest": "v2025.08.04.12.02",
     "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/manado2.bin"
   },
   "testing": {
