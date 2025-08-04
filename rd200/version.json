@@ -68,7 +68,7 @@
     "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/manokwari.bin"
   },
   "timika": {
-    "latest": "v2025.07.22.21.34",
+    "latest": "v2025.08.04.12.04",
     "bin_url": "https://raw.githubusercontent.com/SSTKLab/esp32ota/main/rd200/timika.bin"
   },
   "bengkulu": {
